@@ -1,4 +1,3 @@
-[about_me.md](https://github.com/user-attachments/files/22181547/about_me.md)
 ## About Me
 
 I am a **Data Scientist in Sports Analytics**, specialized in designing and delivering **end-to-end solutions** that span multiple sports. My work covers the entire lifecycle — from initial concept to production-ready tools — supporting **scouting**, **match preparation**, and **executive decision-making**.
