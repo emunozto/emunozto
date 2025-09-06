@@ -7,4 +7,4 @@ I bring tactical intuition to the analytical process, translating qualitative qu
 I have collaborated extensively with leading data providers, including:
 Wyscout, STS, Skillcorner, Scout7, MyCoachPro, Metrica Sports, Second Spectrum, StatsBomb, Opta, and Tracab.
 
-Outside of work, I’m into culture, travel, skywatching and Legos, all things that fuel creativity and keep me curious.
+Outside of work, I’m into culture, travel, stargazing and Legos, all things that fuel creativity and keep me curious.
